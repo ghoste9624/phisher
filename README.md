@@ -76,6 +76,9 @@ python phisher.py -i 127.0.0.1 -p 8080 -o 8080
 https://short-link.me/
 ```
 ```bash
+https://www.shorturl.at/
+```
+```bash
 https://iplogger.org/
 ```
 ```bash
