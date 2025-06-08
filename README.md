@@ -4,12 +4,12 @@ All In One Phishing Tackle Box
 <br>
 
 # Features
-* Comnect to localhost or any IP:PORT combination.
+* Connect to localhost or any IP:PORT combination.
 * Shorten URLs with Tinyurl.
 * Mask and Redirect most URLs with node.js.
 * Incorporate the notable websites for advanced usage.
 * Lightweight and Easy to use.
-* (python, node.js, bash)
+* ( python, node.js, bash )
 
 <br>
 
